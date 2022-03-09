@@ -15,6 +15,7 @@ public class Print1To100WithoutNumber {
 	for(int j = one; j<='d'; j++){     //ascii number of d = 100
 	System.out.println(j);
 	}
+//	Update
 	
 }
 }
